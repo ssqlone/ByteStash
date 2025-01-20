@@ -8,8 +8,8 @@ ByteStash is a self-hosted web application designed to store, organise, and mana
 ![ByteStash App](https://raw.githubusercontent.com/jordan-dalby/ByteStash/refs/heads/main/media/app-image.png)
 
 ## Demo
-Check out the [ByteStash demo](https://bytestash-demo.pikapod.net/)!
-Username: demo
+Check out the [ByteStash demo](https://bytestash-demo.pikapod.net/) powered by PikaPods!  
+Username: demo  
 Password: demodemo
 
 ## Features
