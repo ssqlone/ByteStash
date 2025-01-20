@@ -7,6 +7,11 @@ ByteStash is a self-hosted web application designed to store, organise, and mana
 
 ![ByteStash App](https://raw.githubusercontent.com/jordan-dalby/ByteStash/refs/heads/main/media/app-image.png)
 
+## Demo
+Check out the [ByteStash demo](https://bytestash-demo.pikapod.net/)!
+Username: demo
+Password: demodemo
+
 ## Features
 - Create and Edit Snippets: Easily add new code snippets or update existing ones with an intuitive interface.
 - Filter by Language and Content: Quickly find the right snippet by filtering based on programming language or keywords in the content.
